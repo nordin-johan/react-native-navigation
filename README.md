@@ -12,3 +12,4 @@ A starter template for react native navigation.
 ## Prerequisites
 
 * Node >= v.12
+* Expo CLI
